@@ -1,3 +1,4 @@
+https://github.com/NickKurdin/slozhno-sosredotochitsya-fd
 # Сложно сосредоточиться
 
 Адаптивная веб-страница о том, почему бывает сложно сохранять концентрацию и
